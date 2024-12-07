@@ -2,8 +2,7 @@
 
 💾**I'm currently studying Software Engineering at University of Minho**💾
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/vjtgoncalves.139/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vjtgoncalves.139)
 ---
 
 ## Stats:
